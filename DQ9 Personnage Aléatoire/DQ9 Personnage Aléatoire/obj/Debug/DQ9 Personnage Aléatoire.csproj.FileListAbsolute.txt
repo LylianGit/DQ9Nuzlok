@@ -1,0 +1,11 @@
+C:\Users\lylia\source\repos\DQ9 Personnage Aléatoire\DQ9 Personnage Aléatoire\bin\Debug\DQ9 Personnage Aléatoire.exe.config
+C:\Users\lylia\source\repos\DQ9 Personnage Aléatoire\DQ9 Personnage Aléatoire\bin\Debug\DQ9 Personnage Aléatoire.exe
+C:\Users\lylia\source\repos\DQ9 Personnage Aléatoire\DQ9 Personnage Aléatoire\bin\Debug\DQ9 Personnage Aléatoire.pdb
+C:\Users\lylia\source\repos\DQ9 Personnage Aléatoire\DQ9 Personnage Aléatoire\obj\Debug\DQ9 Personnage Aléatoire.csproj.AssemblyReference.cache
+C:\Users\lylia\source\repos\DQ9 Personnage Aléatoire\DQ9 Personnage Aléatoire\obj\Debug\DQ9 Personnage Aléatoire.csproj.SuggestedBindingRedirects.cache
+C:\Users\lylia\source\repos\DQ9 Personnage Aléatoire\DQ9 Personnage Aléatoire\obj\Debug\DQ9_Personnage_Aléatoire.Form1.resources
+C:\Users\lylia\source\repos\DQ9 Personnage Aléatoire\DQ9 Personnage Aléatoire\obj\Debug\DQ9_Personnage_Aléatoire.Properties.Resources.resources
+C:\Users\lylia\source\repos\DQ9 Personnage Aléatoire\DQ9 Personnage Aléatoire\obj\Debug\DQ9 Personnage Aléatoire.csproj.GenerateResource.cache
+C:\Users\lylia\source\repos\DQ9 Personnage Aléatoire\DQ9 Personnage Aléatoire\obj\Debug\DQ9 Personnage Aléatoire.csproj.CoreCompileInputs.cache
+C:\Users\lylia\source\repos\DQ9 Personnage Aléatoire\DQ9 Personnage Aléatoire\obj\Debug\DQ9 Personnage Aléatoire.exe
+C:\Users\lylia\source\repos\DQ9 Personnage Aléatoire\DQ9 Personnage Aléatoire\obj\Debug\DQ9 Personnage Aléatoire.pdb
